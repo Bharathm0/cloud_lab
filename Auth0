@@ -1,0 +1,14 @@
+files: index.html (inside script)
+//window.location.href = "https://YOUR_DOMAIN.auth0.com/authorize?audience=YOUR_API_AUDIENCE&response_type=code&client_id=YOUR_CLIENT_ID&redirect_uri=REDIRECT_URI&scope=openid%20profile%20email";
+       home.html (Basic page)
+
+Auth0 website
+Application>create app> single page app> .....> (subsitute the respective data in the above href link)
+redirect uri (127.0.0.1:5500/home.html)
+allowed callback url, allowed logout
+
+login uri (127.0.0.1:5500/index.html)
+allowed web origins
+
+
+API>create api>name , https://something.com
