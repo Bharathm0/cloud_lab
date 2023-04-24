@@ -9,3 +9,9 @@ XEN SERVER
 8.	Now choose the destination server and select move.
 9.	Now the VM is migrated to another server.
 10.	Finally we can view the status of the migrated VM in another server
+
+create 2 server if not exist
+RC server1 > set OS> give name(regno)> set osi for OS>next-next>create
+RC VM(Regno)>Move VM> select server 2>click move> vm moved
+
+Output verification done in ADMIN SERVER MACHINE (Creation of VM)
