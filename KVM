@@ -1,0 +1,12 @@
+1. Open VBox
+2. Open terminal and enter into root user
+3. install qemu-kvm
+4. install libvirt-bin bridge-utils qemu-system virt-manager
+5. nano /etc/libvirt/libvirtd.conf
+6. uncomment listen_addr and save the file
+7. change all to 0777
+8. Restart the service
+9. Install cirros image
+10. Choose vm image
+11. Run cirros image
+12. Perform login
