@@ -1,0 +1,5 @@
+dropbox.html
+	change data-app-key , ACCESS_TOKEN
+
+dropbox.com/developers>>
+>App console> create app> permissions (give all permission till OPEN ID SCOPES section)> settings ..... copy data-app-key & ACCESS_TOKEN, add (127.0.0.1) and (localhost) in choose domain section
