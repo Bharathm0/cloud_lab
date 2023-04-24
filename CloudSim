@@ -1,4 +1,2 @@
-1. https://github.com/Cloudslab/cloudsim/releases -> Download
-2. Extract the file
-3. Eclipse -> Import Project -> Maven -> Use existing project -> Browse
-4. Choose the extracted folder
+1. https://github.com/Cloudslab/cloudsim/releases/tag/cloudsim-3.0.3
+eclipse IDE > new project > java project > name, check out use default > chose unzipped cloudsim 3.0.3 folder > next-next
