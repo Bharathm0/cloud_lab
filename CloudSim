@@ -1,0 +1,4 @@
+1. https://github.com/Cloudslab/cloudsim/releases -> Download
+2. Extract the file
+3. Eclipse -> Import Project -> Maven -> Use existing project -> Browse
+4. Choose the extracted folder
