@@ -125,6 +125,10 @@ app.delete("/delete/:id", (req, res) => {
   res.redirect("/");
 });
 
+//npm init
+
+//npm install mongoose method-override express ejs body-parser
+
 //Step 1: Network Access -> 0.0.0./0
 //Step 2: Connect -> copy url
 //step 3: localhost: portnumber
